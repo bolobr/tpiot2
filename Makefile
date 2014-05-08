@@ -1,0 +1,3 @@
+COMPONENT=TpiotAppC
+include $(MAKERULES)
+
